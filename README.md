@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meet Patel</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="37px" height="37px">, I'm Meet Patel</h1>
 
 <h3 align="center">A passionate ML Engineer/Data scientist from India.</h3>
 
@@ -20,11 +20,11 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/meet-patel-0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meet-patel-0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meet-patel-0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meet-patel-0" height="30" width="40" /></a>
 
-<a href="https://instagram.com/meet_patel_020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meet_patel_020" height="30" width="40" /></a>
+<a href="https://instagram.com/meet_patel_020" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meet_patel_020" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/meetpatel7968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meetpatel7968" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/meetpatel7968" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meetpatel7968" height="30" width="40" /></a>
 
 </p>
 
