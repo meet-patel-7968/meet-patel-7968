@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/meet-patel-7968/meet-patel-7968/blob/main/MachineLearningEng_AdobeExpress_AdobeExpress.gif" width="950" height="350" />
+<img align="center" src="https://github.com/meet-patel-7968/meet-patel-7968/blob/main/ezgif.com-gif-maker.gif" width="950" height="300" />
 
 <h3 align="center">A passionate ML Engineer/Data scientist from India.</h3>
 
